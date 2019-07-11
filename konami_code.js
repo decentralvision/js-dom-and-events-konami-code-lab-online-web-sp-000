@@ -22,9 +22,5 @@ function init() {
 }
 
 
-const alphabet = [65, 66, 67];
-
-// Keep track of index outside of the event handler.
-
 
 // This is the function that would be invoked by the event listener.
